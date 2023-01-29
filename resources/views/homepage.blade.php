@@ -381,21 +381,7 @@
       </div>
     </div><!-- End Team Section -->
 
-    <!-- ======= Rviews Section ======= -->
-    <div class="reviews-area">
-      <div class="row g-0">
-        <div class="col-lg-6">
-          <img src="assets/img/about/2.jpg" alt="" class="img-fluid">
-        </div>
-        <div class="col-lg-6 work-right-text d-flex align-items-center">
-          <div class="px-5 py-5 py-lg-0">
-            <h2>working with us</h2>
-            <h5>Web Design, Ready Home, Construction and Co-operate Outstanding Buildings.</h5>
-            <a href="#contact" class="ready-btn scrollto">Contact us</a>
-          </div>
-        </div>
-      </div>
-    </div><!-- End Rviews Section -->
+
 
     <!-- ======= Portfolio Section ======= -->
     <div id="portfolio" class="portfolio-area area-padding fix">
@@ -535,88 +521,9 @@
 
 
 
-    <!-- ======= Testimonials Section ======= -->
-    <div id="testimonials" class="testimonials">
-      <div class="container">
-
-        <div class="testimonials-slider swiper">
-          <div class="swiper-wrapper">
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
-                <h4>Ceo &amp; Founder</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
-                <h4>Designer</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
-                <h4>Store Owner</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
-                <h4>Freelancer</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-            <div class="swiper-slide">
-              <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
-                <h4>Entrepreneur</h4>
-                <p>
-                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
-                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
-                </p>
-              </div>
-            </div><!-- End testimonial item -->
-
-          </div>
-          <div class="swiper-pagination"></div>
-        </div>
-
-      </div>
-    </div><!-- End Testimonials Section -->
 
 
-
-    <!-- ======= Suscribe Section ======= -->
+    {{--  <!-- ======= Suscribe Section ======= -->
     <div class="suscribe-area">
       <div class="container">
         <div class="row">
@@ -628,7 +535,7 @@
           </div>
         </div>
       </div>
-    </div><!-- End Suscribe Section -->
+    </div><!-- End Suscribe Section -->  --}}
 
     <!-- ======= Contact Section ======= -->
     <div id="contact" class="contact-area">
@@ -638,7 +545,7 @@
           <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
               <div class="section-headline text-center">
-                <h2>Contact us</h2>
+                <h2>Location</h2>
               </div>
             </div>
           </div>
@@ -683,14 +590,15 @@
           <div class="row">
 
             <!-- Start Google Map -->
-            <div class="col-md-6">
+            <div class="col-md-12">
               <!-- Start Map -->
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3941.3098364725743!2d125.522712514786!3d8.943570193580152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3301c0475f60110b%3A0xc011eb1a725faa40!2sMandaue%20Foam!5e0!3m2!1sen!2sph!4v1672936431215!5m2!1sen!2sph" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3941.3098364725743!2d125.522712514786!3d8.943570193580152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3301c0475f60110b%3A0xc011eb1a725faa40!2sMandaue%20Foam!5e0!3m2!1sen!2sph!4v1672936431215!5m2!1sen!2sph" width="1300
+              " height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
               <!-- End Map -->
             </div>
             <!-- End Google Map -->
 
-            <!-- Start  contact -->
+             {{--    <!-- Start  contact -->
             <div class="col-md-6">
               <div class="form contact-form">
                 <form action="forms/contact.php" method="post" role="form" class="php-email-form">
@@ -715,12 +623,11 @@
                 </form>
               </div>
             </div>
-            <!-- End Left contact -->
+            <!-- End Left contact -->   --}}
           </div>
         </div>
       </div>
     </div><!-- End Contact Section -->
-
   </main><!-- End #main -->
 
   @include('homepage.includes.footer')

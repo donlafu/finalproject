@@ -36,6 +36,9 @@ Route::post('/users/add',  [UserController::class, 'store'])
 Route::post('/users/update/{id}',  [UserController::class, 'show'])
     ->middleware(['auth', 'verified']);
 
+Route::get('/users/update/{id}',  [UserController::class, 'show'])
+    ->middleware(['auth', 'verified']);
+
 
 Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');

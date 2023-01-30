@@ -132,8 +132,8 @@
             <div class="about-move">
               <div class="services-details">
                 <div class="single-services">
-                  <a class="services-icon" href="#">
-                    <i class="bi bi-briefcase"></i>
+                  <a href="#">
+                    <img src="assets/img/services/1.png" alt="">
                   </a>
                   <h4>For Everyday Living</h4>
                   <p>
@@ -148,9 +148,9 @@
             <div class="about-move">
               <div class="services-details">
                 <div class="single-services">
-                  <a class="services-icon" href="#">
-                    <i class="bi bi-card-checklist"></i>
-                  </a>
+                    <a href="#">
+                        <img src="assets/img/services/2.png" alt="">
+                      </a>
                   <h4>We Customize</h4>
                   <p>
                     Can’t find the perfect furniture you? We help you personalize furniture so you always get the perfect one.
@@ -165,9 +165,9 @@
             <div class=" about-move">
               <div class="services-details">
                 <div class="single-services">
-                  <a class="services-icon" href="#">
-                    <i class="bi bi-bar-chart"></i>
-                  </a>
+                    <a href="#">
+                        <img src="assets/img/services/3.png" alt="">
+                      </a>
                   <h4>Return Policy</h4>
                   <p>
                     Not satisfied? We guarantee a 30-day return and exchange so you can get the best out of our products.
@@ -182,9 +182,9 @@
             <div class=" about-move">
               <div class="services-details">
                 <div class="single-services">
-                  <a class="services-icon" href="#">
-                    <i class="bi bi-binoculars"></i>
-                  </a>
+                    <a href="#">
+                        <img src="assets/img/services/4.png" alt="">
+                      </a>
                   <h4>We Deliver</h4>
                   <p>
                     From our store straight to your door, we deliver our products to you for a hassle-free shopping experience.
@@ -195,9 +195,9 @@
             </div>
           </div>
           <!-- End Left services -->
-          <div class="col-md-4 col-sm-4 col-xs-12">
+
             <!-- end col-md-4 -->
-            <div class=" about-move">
+          {{--   <div class=" about-move">
               <div class="services-details">
                 <div class="single-services">
                   <a class="services-icon" href="#">
@@ -232,154 +232,161 @@
           </div>
         </div>
       </div>
-    </div><!-- End Services Section -->
+    </div><!-- End Services Section --> --}}
 
-    <!-- ======= Team Section ======= -->
+     <!-- ======= Team Section ======= -->
     <div id="team" class="our-team-area area-padding">
-      <div class="container">
+        <div class="container">
         <div class="row">
-          <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="col-md-12 col-sm-12 col-xs-12">
             <div class="section-headline text-center">
-              <h2>Our special Team</h2>
+                <h2>Hot Sales</h2>
             </div>
-          </div>
+            </div>
         </div>
         <div class="row">
-          <div class="col-md-3 col-sm-3 col-xs-12">
+            <div class="col-md-3 col-sm-3 col-xs-12">
             <div class="single-team-member">
-              <div class="team-img">
+                <div class="team-img">
                 <a href="#">
-                  <img src="assets/img/team/1.jpg" alt="">
+                    <img src="assets/img/team/5.png" alt="">
+                 </a>
+                <div class="team-social-icon text-center">
+                    {{--<ul>
+                    <li>
+                        <a href="#">
+                        <i class="bi bi-facebook"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        <i class="bi bi-twitter"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#">
+                        <i class="bi bi-instagram"></i>
+                        </a>
+                    </li>
+                    </ul>--}}
+                </div>
+                </div>
+                <div class="team-content text-center">
+                <h4>Arlington Sofa</h4>
+                <h6>Recliner</h6>
+                <p>₱22,500.00</p>
+                </div>
+            </div>
+            </div>
+            <!-- End column -->
+            <div class="col-md-3 col-sm-3 col-xs-12">
+            <div class="single-team-member">
+                <div class="team-img">
+                <a href="#">
+                    <img src="assets/img/team/6.png" alt="">
                 </a>
                 <div class="team-social-icon text-center">
-                  <ul>
+                  {{--  <ul>
                     <li>
-                      <a href="#">
+                        <a href="#">
                         <i class="bi bi-facebook"></i>
-                      </a>
+                        </a>
                     </li>
                     <li>
-                      <a href="#">
+                        <a href="#">
                         <i class="bi bi-twitter"></i>
-                      </a>
+                        </a>
                     </li>
                     <li>
-                      <a href="#">
+                        <a href="#">
                         <i class="bi bi-instagram"></i>
-                      </a>
+                        </a>
                     </li>
-                  </ul>
+                    </ul>--}}
                 </div>
-              </div>
-              <div class="team-content text-center">
-                <h4>Jhon Mickel</h4>
-                <p>Seo</p>
-              </div>
+                </div>
+                <div class="team-content text-center">
+                <h4>Armina Sofa</h4>
+                <h6>Homethearter Sofa</h6>
+                <p>₱120,200.00</p>
+                </div>
             </div>
-          </div>
-          <!-- End column -->
-          <div class="col-md-3 col-sm-3 col-xs-12">
+            </div>
+            <!-- End column -->
+            <div class="col-md-3 col-sm-3 col-xs-12">
             <div class="single-team-member">
-              <div class="team-img">
+                <div class="team-img">
                 <a href="#">
-                  <img src="assets/img/team/2.jpg" alt="">
+                    <img src="assets/img/team/8.png" alt="">
                 </a>
                 <div class="team-social-icon text-center">
-                  <ul>
+                    {{--<ul>
                     <li>
-                      <a href="#">
+                        <a href="#">
                         <i class="bi bi-facebook"></i>
-                      </a>
+                        </a>
                     </li>
                     <li>
-                      <a href="#">
+                        <a href="#">
                         <i class="bi bi-twitter"></i>
-                      </a>
+                        </a>
                     </li>
                     <li>
-                      <a href="#">
+                        <a href="#">
                         <i class="bi bi-instagram"></i>
-                      </a>
+                        </a>
                     </li>
-                  </ul>
+                    </ul> --}}
                 </div>
-              </div>
-              <div class="team-content text-center">
-                <h4>Andrew Arnold</h4>
-                <p>Web Developer</p>
-              </div>
+                </div>
+                <div class="team-content text-center">
+                <h4>Carlow Sofa</h4>
+                <h6>2 Seater Recliner</h6>
+                <p>₱35,400.00</p>
+                </div>
             </div>
-          </div>
-          <!-- End column -->
-          <div class="col-md-3 col-sm-3 col-xs-12">
+            </div>
+            <!-- End column -->
+            <div class="col-md-3 col-sm-3 col-xs-12">
             <div class="single-team-member">
-              <div class="team-img">
+                <div class="team-img">
                 <a href="#">
-                  <img src="assets/img/team/3.jpg" alt="">
+                    <img src="assets/img/team/9.png" alt="">
                 </a>
                 <div class="team-social-icon text-center">
-                  <ul>
+                  {{--   <ul>
                     <li>
-                      <a href="#">
+                        <a href="#">
                         <i class="bi bi-facebook"></i>
-                      </a>
+                        </a>
                     </li>
                     <li>
-                      <a href="#">
+                        <a href="#">
                         <i class="bi bi-twitter"></i>
-                      </a>
+                        </a>
                     </li>
                     <li>
-                      <a href="#">
+                        <a href="#">
                         <i class="bi bi-instagram"></i>
-                      </a>
+                        </a>
                     </li>
-                  </ul>
+                    </ul> --}}
                 </div>
-              </div>
-              <div class="team-content text-center">
-                <h4>Lellien Linda</h4>
-                <p>Web Design</p>
-              </div>
-            </div>
-          </div>
-          <!-- End column -->
-          <div class="col-md-3 col-sm-3 col-xs-12">
-            <div class="single-team-member">
-              <div class="team-img">
-                <a href="#">
-                  <img src="assets/img/team/4.jpg" alt="">
-                </a>
-                <div class="team-social-icon text-center">
-                  <ul>
-                    <li>
-                      <a href="#">
-                        <i class="bi bi-facebook"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i class="bi bi-twitter"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="#">
-                        <i class="bi bi-instagram"></i>
-                      </a>
-                    </li>
-                  </ul>
                 </div>
-              </div>
-              <div class="team-content text-center">
-                <h4>Jhon Powel</h4>
-                <p>Seo Expert</p>
-              </div>
+                <div class="team-content text-center">
+                <h4>Chino Sofa</h4>
+                <h6>L-Shape</h6>
+                <p>₱29,700.00</p>
+                </div>
             </div>
-          </div>
-          <!-- End column -->
+            </div>
+            <!-- End column -->
         </div>
-      </div>
-    </div><!-- End Team Section -->
+        </div>
+
+    </div>
+
+    <!-- End Team Section -->
 
 
 
@@ -389,11 +396,11 @@
         <div class="row">
           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <div class="section-headline text-center">
-              <h2>Our Portfolio</h2>
+              <h2>Breathe New Life to Your Home</h2>
             </div>
           </div>
         </div>
-        <div class="row wesome-project-1 fix">
+        {{-- <div class="row wesome-project-1 fix">
           <!-- Start Portfolio -page -->
           <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             <ul id="portfolio-flters">
@@ -403,7 +410,7 @@
               <li data-filter=".filter-web">Web</li>
             </ul>
           </div>
-        </div>
+        </div> --}}
 
         <div class="row awesome-project-content portfolio-container">
 
@@ -411,12 +418,12 @@
           <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-app portfolio-item">
             <div class="single-awesome-project">
               <div class="awesome-img">
-                <a href="#"><img src="assets/img/portfolio/1.jpg" alt="" /></a>
+                <a href="#"><img src="assets/img/portfolio/1.png" alt="" /></a>
                 <div class="add-actions text-center">
                   <div class="project-dec">
                     <a class="portfolio-lightbox" data-gallery="myGallery" href="assets/img/portfolio/1.jpg">
-                      <h4>Business City</h4>
-                      <span>Web Development</span>
+                      <h4>Anciet Pillows</h4>
+
                     </a>
                   </div>
                 </div>
@@ -429,12 +436,12 @@
           <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-web">
             <div class="single-awesome-project">
               <div class="awesome-img">
-                <a href="#"><img src="assets/img/portfolio/2.jpg" alt="" /></a>
+                <a href="#"><img src="assets/img/portfolio/2.png" alt="" /></a>
                 <div class="add-actions text-center">
                   <div class="project-dec">
                     <a class="portfolio-lightbox" data-gallery="myGallery" href="assets/img/portfolio/2.jpg">
-                      <h4>Blue Sea</h4>
-                      <span>Photosho</span>
+                      <h4>Spring Mattress</h4>
+
                     </a>
                   </div>
                 </div>
@@ -447,12 +454,12 @@
           <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-card">
             <div class="single-awesome-project">
               <div class="awesome-img">
-                <a href="#"><img src="assets/img/portfolio/3.jpg" alt="" /></a>
+                <a href="#"><img src="assets/img/portfolio/3.png" alt="" /></a>
                 <div class="add-actions text-center">
                   <div class="project-dec">
                     <a class="portfolio-lightbox" data-gallery="myGallery" href="assets/img/portfolio/3.jpg">
-                      <h4>Beautiful Nature</h4>
-                      <span>Web Design</span>
+                      <h4>Sofas</h4>
+
                     </a>
                   </div>
                 </div>
@@ -465,12 +472,12 @@
           <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-web">
             <div class="single-awesome-project">
               <div class="awesome-img">
-                <a href="#"><img src="assets/img/portfolio/4.jpg" alt="" /></a>
+                <a href="#"><img src="assets/img/portfolio/4.png" alt="" /></a>
                 <div class="add-actions text-center">
                   <div class="project-dec">
                     <a class="portfolio-lightbox" data-gallery="myGallery" href="assets/img/portfolio/4.jpg">
-                      <h4>Creative Team</h4>
-                      <span>Web design</span>
+                      <h4>Fiber Pillow</h4>
+
                     </a>
                   </div>
                 </div>
@@ -483,12 +490,12 @@
           <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-app">
             <div class="single-awesome-project">
               <div class="awesome-img">
-                <a href="#"><img src="assets/img/portfolio/5.jpg" alt="" /></a>
+                <a href="#"><img src="assets/img/portfolio/5.png" alt="" /></a>
                 <div class="add-actions text-center text-center">
                   <div class="project-dec">
                     <a class="portfolio-lightbox" data-gallery="myGallery" href="assets/img/portfolio/5.jpg">
-                      <h4>Beautiful Flower</h4>
-                      <span>Web Development</span>
+                      <h4>Wall Shelves + Brackets</h4>
+
                     </a>
                   </div>
                 </div>
@@ -501,12 +508,12 @@
           <div class="col-md-4 col-sm-4 col-xs-12 portfolio-item filter-web">
             <div class="single-awesome-project">
               <div class="awesome-img">
-                <a href="#"><img src="assets/img/portfolio/6.jpg" alt="" /></a>
+                <a href="#"><img src="assets/img/portfolio/6.png" alt="" /></a>
                 <div class="add-actions text-center">
                   <div class="project-dec">
                     <a class="portfolio-lightbox" data-gallery="myGallery" href="assets/img/portfolio/6.jpg">
-                      <h4>Night Hill</h4>
-                      <span>Photoshop</span>
+                      <h4>Accent Tables</h4>
+
                     </a>
                   </div>
                 </div>

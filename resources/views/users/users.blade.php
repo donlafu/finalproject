@@ -46,8 +46,8 @@
                                     <td> {{ $user->name }} </td>
                                     <td class="text-center"> {{ $user->email }} </td>
                                     <td class="text-center">
-                                        <button class="rounded-full bg-sky-500 p1 hover:bg-sky-700">Update</button>
-                                        <button class="rounded-full bg-sky-500 p1 hover:bg-sky-700">Delete</button>
+                                        <a href="{{ url('/users/update/{id}') }}" class="rounded-full bg-sky-500 p1 hover:bg-sky-700">Update</a>
+                                        <a href="/user/{{ $user->id }}" class="rounded-full bg-sky-500 p1 hover:bg-sky-700">Delete</a>
                                     </td>
                               </tr>
                             @endforeach

@@ -1,7 +1,7 @@
 <x-app-layout>
     <x-slot name="header">
         <h2 class="font-semibold text-xl text-gray-800 leading-tight">
-            {{ __('Users') }}
+            {{ $header }}
         </h2>
     </x-slot>
 
@@ -43,7 +43,7 @@
 
                         <div class="flex items-center justify-end mt-4">
                             <x-primary-button class="ml-4">
-                                {{ __('Add User') }}
+                                {{ $header }}
                             </x-primary-button>
                         </div>
                     </form>

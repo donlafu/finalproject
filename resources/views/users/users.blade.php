@@ -6,6 +6,15 @@
     </x-slot>
 
     <div class="py-12">
+        @if ( session('status') )
+        <div class="max-w-7xl mx-auto sm:px-6 lg:px-8 my-5">
+            <div class="p-4 mb-4 text-sm text-green-700 bg-green-100 rounded-lg dark:bg-gray-800 dark:text-green-400" role='alert'>
+                <span class="font-medium">Success alert!</span> {{  session('status')  }}
+            </div>
+        </div>
+        @endif
+
+
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900">
@@ -14,7 +23,13 @@
                         {{  $header }}
                     </h2>
 
-                    <button class="float-right rounded-full bg-sky-500 p1 hover:bg-sky-700">Add Users</button>
+                    <a href="{{ url('/users/add')}}">
+
+                        <button class="float-right rounded-full bg-green-500 p1 hover:bg-sky-700">
+                            Add Users
+                        </button>
+
+                    </a>
 
                     <table class="table-auto w-full">
                         <thead>
@@ -31,8 +46,8 @@
                                     <td> {{ $user->name }} </td>
                                     <td class="text-center"> {{ $user->email }} </td>
                                     <td class="text-center">
-                                        <button class="rounded-full bg-sky-500 p1 hover:bg-sky-700">Update</button>
-                                        <button class="rounded-full bg-sky-500 p1 hover:bg-sky-700">Delete</button>
+                                        <a href="{{ url('/users/update/{id}') }}" class="rounded-full bg-sky-500 p1 hover:bg-sky-700">Update</a>
+                                        <a href="/user/{{ $user->id }}" class="rounded-full bg-sky-500 p1 hover:bg-sky-700">Delete</a>
                                     </td>
                               </tr>
                             @endforeach

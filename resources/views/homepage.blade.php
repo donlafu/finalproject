@@ -34,7 +34,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Shop this look</h2>
                 <p class="animate__animated animate__fadeInUp">Get inspired and make our interior designs your own.</p>
-                <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+                <a href="#services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
               </div>
             </div>
           </div>
@@ -44,7 +44,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">February Sale!</h2>
                 <p class="animate__animated animate__fadeInUp">Hurry and choose your favorite designs!</p>
-                <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+                <a href="#services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
               </div>
             </div>
           </div>
@@ -54,7 +54,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">Shop this look</h2>
                 <p class="animate__animated animate__fadeInUp">Get inspired and make our interior designs your own.</p>
-                <a href="#about" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+                <a href="#services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
               </div>
             </div>
           </div>

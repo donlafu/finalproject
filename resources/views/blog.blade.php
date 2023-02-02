@@ -150,11 +150,11 @@
                     <div class="recent-single-post">
                       <div class="post-img">
                         <a href="#">
-                          <img src="assets/img/blog/4.jpg" alt="">
+                          <img src="assets/img/blog/8.webp" alt="">
                         </a>
                       </div>
                       <div class="pst-content">
-                        <p><a href="#"> Redug Lerse dolor sit amet consect adipis elit.</a></p>
+                        <p><a href="#">Henderson Sofa</a></p>
                       </div>
                     </div>
                     <!-- End single post -->
@@ -336,28 +336,27 @@
                 <div class="single-blog">
                   <div class="single-blog-img">
                     <a href="blog-details.html">
-                      <img src="assets/img/blog/4.jpg" alt="">
+                      <img src="assets/img/blog/7.webp" alt="">
                     </a>
                   </div>
                   <div class="blog-meta">
                     <span class="comments-type">
-                      <i class="bi bi-chat"></i>
-                      <a href="#">1 comments</a>
-                    </span>
-                    <span class="date-type">
-                      <i class="bi bi-calendar"></i>2016-03-05 / 09:10:16
-                    </span>
+
+                      <a href="#">From ₱21,600.00 to price₱15,120.00 </a>
+
                   </div>
                   <div class="blog-text">
                     <h4>
-                      <a href="#">Post my imagine Items</a>
+                      <a href="#">Eric Sofa</a>
                     </h4>
+                    <h5>L-shape + Ottoman</h5>
                     <p>
-                      Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit.
+                        Due to the nature of material used in this product, dimensions are approximate and may differ from 2 to 3 inches.
                     </p>
                   </div>
                   <span>
-                    <a href="blog-details.html" class="ready-btn">Read more</a>
+                    <a href="blog-details.html" class="ready-btn">Buy now</a>
+                    <a href="blog-details.html" class="ready-btn">Add to cart</a>
                   </span>
                 </div>
               </div>
@@ -366,28 +365,27 @@
                 <div class="single-blog">
                   <div class="single-blog-img">
                     <a href="blog-details.html">
-                      <img src="assets/img/blog/5.jpg" alt="">
+                      <img src="assets/img/blog/9.webp" alt="">
                     </a>
                   </div>
                   <div class="blog-meta">
                     <span class="comments-type">
-                      <i class="bi bi-chat"></i>
-                      <a href="#">10 comments</a>
-                    </span>
-                    <span class="date-type">
-                      <i class="bi bi-calendar"></i>2016-03-05 / 09:10:16
+
+                      <a href="#">From ₱42,500.00 to ₱29,750.00</a>
                     </span>
                   </div>
                   <div class="blog-text">
                     <h4>
-                      <a href="#">Post my imagine Items</a>
+                      <a href="#">Malta Sofa</a>
                     </h4>
+                    <h5>Corner Sectional, 5-seat with chaise (2R)</h5>
                     <p>
-                      Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit.
+                        Corner Sectional, 5-seat with chaise (2R)Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit.
                     </p>
                   </div>
                   <span>
-                    <a href="blog-details.html" class="ready-btn">Read more</a>
+                    <a href="blog-details.html" class="ready-btn">Buy now</a>
+                    <a href="blog-details.html" class="ready-btn">Add to cart</a>
                   </span>
                 </div>
               </div>

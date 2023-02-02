@@ -26,7 +26,7 @@
             <div class="single-blog">
               <div class="single-blog-img">
                 <a href="blog.html">
-                  <img src="assets/img/blog/1.jpg" alt="">
+                  <img src="assets/img/blog/5.webp" alt="">
                 </a>
               </div>
               <div class="blog-meta">
@@ -50,7 +50,7 @@
             <div class="single-blog">
               <div class="single-blog-img">
                 <a href="blog.html">
-                  <img src="assets/img/blog/2.jpg" alt="">
+                  <img src="assets/img/blog/6.webp" alt="">
                 </a>
               </div>
               <div class="blog-meta">
@@ -74,7 +74,7 @@
             <div class="single-blog">
               <div class="single-blog-img">
                 <a href="blog.html">
-                  <img src="assets/img/blog/3.jpg" alt="">
+                  <img src="assets/img/blog/4.webp" alt="">
                 </a>
               </div>
               <div class="blog-meta">

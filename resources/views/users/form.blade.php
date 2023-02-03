@@ -11,7 +11,7 @@
                 <div class="p-6 text-gray-900">
 
 
-                    <form method="POST" action="{{ url('/users/update') }}">
+                    <form method="POST" action="{{ url('/users/add') }}">
                         @csrf
 
                         <!-- Name -->

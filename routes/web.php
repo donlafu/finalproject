@@ -38,8 +38,8 @@ Route::post('/users/add',  [UserController::class, 'store'])
 
 Route::get('/users/update/{id}',  [UserController::class, 'show'])
     ->middleware(['auth', 'verified']);
-Route::post('/users/update',  [UserController::class, 'show'])
-    ->middleware(['auth', 'verified']);
+//Route::post('/users/update',  [UserController::class, 'show'])
+ //   ->middleware(['auth', 'verified']);
 
 
 
